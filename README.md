@@ -25,8 +25,8 @@ Find and display one document in the establishments collection using find_one an
 Assign the establishments collection to a variable to prepare the collection for use.
 
 
-## Part 2: Update the Database
-# Used NoSQL_setup_starter.ipynb for this section of the challenge.
+# Part 2: Update the Database
+## Used NoSQL_setup_starter.ipynb for this section of the challenge.
 
 The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to the establishments collection:
 
@@ -43,8 +43,8 @@ Use update_many to convert latitude and longitude to decimal numbers.
 Use update_many to convert RatingValue to integer numbers.
 
 
-## Part 3: Exploratory Analysis
-# Used NoSQL_analysis_starter.ipynb for this section of the challenge.
+# Part 3: Exploratory Analysis
+## Used NoSQL_analysis_starter.ipynb for this section of the challenge.
 Eat Safe, Love has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
 
 Use NoSQL_analysis_starter.ipynb for this section of the challenge.
